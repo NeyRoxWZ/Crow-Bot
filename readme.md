@@ -17,3 +17,6 @@ npm i discord-logs
 npm install discord-backup
 npm install randomstring
 npm install discord-button-pages
+
+
+Mot de passe : crowbot
